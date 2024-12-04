@@ -9,10 +9,10 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
-    --laranja: #EB9B00;
-    --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
+    --laranja: #ebe700c4;
+    --azul-degrade: linear-gradient(97.54deg, #fd3c9cbd 35.49%, hsla(335, 45%, 82%, 0.767) 165.37%);
     --fonte-principal: "Poppins";
-    --azul: #002F52;
+    --azul: #ff9dc6;
     --fonte-secundario: "Josefin Sans";
     --preto: #000000;
     --cinza: #474646;
